@@ -1,0 +1,44 @@
+.heading
+{
+  font-size: 23px; 
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+}
+.headingDiv
+{
+  float: none;
+  background: white ; 
+  padding: 10px;
+  border-radius: 20px; 
+  color: black;
+  box-shadow:5px 5px 5px grey;
+}
+.headingDiv2
+{
+  font-size: 18px;
+}
+
+.resultToTag
+{
+  box-shadow: 5px 5px 5px gray;
+  font-size: 20px;
+}
+.resultToTag span
+{
+  white-space: pre-line;
+}
+.copyRightFooter 
+{
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(57, 123, 255);
+  text-align: center;
+  line-height: 3;
+}
+/* Criar uma tela p5.js com o canvas e dar estilos 
+para ela */
+
+
